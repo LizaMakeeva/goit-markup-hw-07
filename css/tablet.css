@@ -7,10 +7,9 @@
     padding-bottom: 96px;
   }
   .our-team-list {
-    width: 100%;
+    display: flex;
     flex-wrap: wrap;
-  }
-  .images-our-team:not(:last-child) {
-    margin-bottom: 64px;
+    justify-content: center;
+    gap: 64px 24px;
   }
 }
