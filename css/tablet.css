@@ -68,4 +68,12 @@
   .title-hero {
     margin-bottom: 36px;
   }
+  .footer-div-two-section {
+    flex-wrap: wrap;
+  }
+  .footer {
+    display: flex;
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
 }

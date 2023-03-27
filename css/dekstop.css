@@ -107,4 +107,8 @@
     margin-right: auto;
     margin-bottom: 48px;
   }
+  .footer-div-two-section {
+    display: flex;
+    justify-content: space-between;
+  }
 }
