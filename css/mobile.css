@@ -11,4 +11,14 @@
     justify-content: center;
     gap: 72px;
   }
+  .customers {
+    padding-bottom: 96px;
+    padding-top: 96px;
+  }
+  .customer-list-section {
+    display: flex;
+    gap: 72px 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 }

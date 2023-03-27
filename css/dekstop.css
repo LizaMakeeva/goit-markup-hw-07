@@ -13,5 +13,16 @@
     padding-left: 0;
     margin-right: 0;
     justify-content: center;
+    flex-wrap: nowrap;
+  }
+  .customers {
+    padding-bottom: 120px;
+    padding-top: 130px;
+  }
+  .customer-list-section {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    flex-wrap: nowrap;
   }
 }

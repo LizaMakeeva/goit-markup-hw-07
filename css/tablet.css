@@ -12,4 +12,13 @@
     justify-content: center;
     gap: 64px 24px;
   }
+  .customers {
+    padding-bottom: 96px;
+    padding-top: 96px;
+  }
+  .customer-list-section {
+    display: flex;
+    gap: 72px 24px;
+    justify-content: center;
+  }
 }
