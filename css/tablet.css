@@ -58,7 +58,14 @@
     background-size: cover;
     width: 100%;
     text-align: center;
+    background-image: linear-gradient(
+        rgba(46, 47, 66, 0.7),
+        rgba(46, 47, 66, 0.7)
+      ),
+      url(../images/bg-tablet.jpg);
+    background-size: cover;
   }
   .title-hero {
+    margin-bottom: 36px;
   }
 }
