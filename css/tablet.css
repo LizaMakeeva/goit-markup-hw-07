@@ -84,9 +84,12 @@
   }
   .subscribe-footer {
     padding-left: 0;
-    margin-right: auto;
+    width: 565px;
   }
   .footer-form-input {
     flex-wrap: nowrap;
+  }
+  .subscribe-input-footer {
+    width: 264px;
   }
 }
