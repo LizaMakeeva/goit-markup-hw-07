@@ -52,4 +52,10 @@
     gap: 72px 24px;
     justify-content: center;
   }
+  .hero-section {
+    padding-top: 112px;
+    padding-bottom: 112px;
+    background-position: center;
+    width: 100%;
+  }
 }
