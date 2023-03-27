@@ -55,7 +55,10 @@
   .hero-section {
     padding-top: 112px;
     padding-bottom: 112px;
-    background-position: center;
+    background-size: cover;
     width: 100%;
+    text-align: center;
+  }
+  .title-hero {
   }
 }

@@ -98,4 +98,13 @@
     margin-left: auto;
     margin-right: auto;
   }
+  .title-hero {
+    max-width: 496px;
+    font-size: 56px;
+    line-height: 1.07;
+    color: var(--title-hero-button);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 48px;
+  }
 }
