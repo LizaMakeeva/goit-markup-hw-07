@@ -76,4 +76,17 @@
     padding-top: 96px;
     padding-bottom: 96px;
   }
+  .footer-container {
+    text-align: left;
+  }
+  .social-media-title {
+    text-align: left;
+  }
+  .subscribe-footer {
+    padding-left: 0;
+    margin-right: auto;
+  }
+  .footer-form-input {
+    flex-wrap: nowrap;
+  }
 }
