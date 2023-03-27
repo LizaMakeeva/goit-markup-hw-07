@@ -2,8 +2,15 @@
   .container {
     max-width: 768px;
   }
-}
-.section-our-team {
-  padding-top: 96px;
-  padding-bottom: 96px;
+  .section-our-team {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+  .our-team-list {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .images-our-team:not(:last-child) {
+    margin-bottom: 64px;
+  }
 }
