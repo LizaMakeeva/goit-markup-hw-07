@@ -68,8 +68,9 @@
   .title-hero {
     margin-bottom: 36px;
   }
-  .footer-div-two-section {
+  /* .footer-div-two-section {
     flex-wrap: wrap;
+    max-width: 565px;
   }
   .footer {
     display: flex;
@@ -84,7 +85,6 @@
   }
   .subscribe-footer {
     padding-left: 0;
-    width: 565px;
   }
   .footer-form-input {
     flex-wrap: nowrap;
@@ -92,4 +92,12 @@
   .subscribe-input-footer {
     width: 264px;
   }
+  .subscribe-title {
+    text-align: left;
+  }
+  .footer-div-two-section {
+    flex-wrap: wrap;
+    max-width: 565px;
+    gap: 72px 24px;
+  } */
 }
