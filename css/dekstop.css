@@ -76,4 +76,11 @@
     width: 264px;
     height: 72px;
   }
+  .padding-for-section-index {
+    padding-bottom: 120px;
+    padding-top: 120px;
+  }
+  .our-services-container {
+    padding-top: 0;
+  }
 }

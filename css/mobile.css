@@ -47,4 +47,8 @@
     width: 396px;
     height: 48px;
   }
+  .padding-for-section-index {
+    padding-bottom: 96px;
+    padding-top: 96px;
+  }
 }
