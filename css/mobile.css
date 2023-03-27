@@ -21,4 +21,30 @@
     justify-content: center;
     flex-wrap: wrap;
   }
+  .our-services-container {
+    display: none;
+  }
+  .div-advantages {
+    display: none;
+  }
+  .advantages-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 72px;
+    padding-left: 0;
+    margin-right: 0;
+    justify-content: center;
+  }
+  .title-our-advantages {
+    font-size: 36px;
+    line-height: calc(40 / 36);
+    text-align: center;
+  }
+  .text-our-advantages {
+    color: var(--color-of-paraghraphs);
+    font-size: 16px;
+    line-height: 1.5;
+    width: 396px;
+    height: 48px;
+  }
 }
