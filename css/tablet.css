@@ -74,6 +74,7 @@
     max-width: 565px;
   }
   .footer-container {
+    align-items: flex-start;
   }
   .social-media-div-footer {
     align-items: flex-start;

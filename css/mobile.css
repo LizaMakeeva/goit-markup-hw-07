@@ -102,4 +102,10 @@
     display: flex;
     justify-content: center;
   }
+  .header-list {
+    display: none;
+  }
+  .header-adress {
+    display: none;
+  }
 }
