@@ -108,4 +108,15 @@
   .header-adress {
     display: none;
   }
+  .header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo {
+    margin-right: 0;
+  }
+  .mobile-menu-open {
+    margin-left: auto;
+  }
 }
