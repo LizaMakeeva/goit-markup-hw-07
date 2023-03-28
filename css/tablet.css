@@ -68,36 +68,28 @@
   .title-hero {
     margin-bottom: 36px;
   }
-  /* .footer-div-two-section {
+  .footer-div-two-section {
+    flex-direction: row;
     flex-wrap: wrap;
     max-width: 565px;
   }
-  .footer {
-    display: flex;
-    padding-top: 96px;
-    padding-bottom: 96px;
-  }
   .footer-container {
-    text-align: left;
   }
-  .social-media-title {
-    text-align: left;
+  .social-media-div-footer {
+    align-items: flex-start;
+    margin: 0;
   }
   .subscribe-footer {
-    padding-left: 0;
+    padding: 0;
+  }
+  .subscribe-title {
+    justify-content: flex-start;
   }
   .footer-form-input {
-    flex-wrap: nowrap;
+    flex-direction: row;
+    gap: 24px;
   }
   .subscribe-input-footer {
     width: 264px;
   }
-  .subscribe-title {
-    text-align: left;
-  }
-  .footer-div-two-section {
-    flex-wrap: wrap;
-    max-width: 565px;
-    gap: 72px 24px;
-  } */
 }

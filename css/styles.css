@@ -364,7 +364,6 @@ ul {
 .footer-div-two-section {
   display: flex;
   justify-content: space-between;
-  max-width: 565px;
 }
 .footer {
   background-color: var(--accent-text-color);
