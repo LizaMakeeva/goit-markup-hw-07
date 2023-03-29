@@ -93,4 +93,37 @@
   .subscribe-input-footer {
     width: 264px;
   }
+  .header-list {
+    display: flex;
+  }
+  .header-adress {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .mobile-menu-open {
+    display: none;
+  }
+  .header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .header-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .header-list {
+    align-items: center;
+    justify-content: space-between;
+  }
+  .header {
+    border-bottom: 1px solid #e7e9fc;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+  .logo {
+    display: block;
+  }
 }

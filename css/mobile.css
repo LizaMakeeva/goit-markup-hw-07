@@ -96,7 +96,7 @@
     align-items: center;
   }
   .subscribe-input-footer {
-    width: 398px;
+    width: 100%;
   }
   .subscribe-title {
     display: flex;
