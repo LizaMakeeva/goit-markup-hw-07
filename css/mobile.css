@@ -193,4 +193,8 @@
     visibility: visible;
     pointer-events: auto;
   }
+  .modal {
+    width: 95%;
+    height: 95%;
+  }
 }
