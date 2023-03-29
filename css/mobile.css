@@ -450,7 +450,7 @@
     pointer-events: auto;
   }
   .modal {
-    width: calc(100% - 2 * 15px);
+    width: 100%;
   }
   .contacts-active-mobile-menu {
     color: #404bbf;
