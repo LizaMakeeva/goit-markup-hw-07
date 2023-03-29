@@ -251,4 +251,26 @@
   .footer-container {
     align-items: flex-start;
   }
+  .header-adress {
+    display: flex;
+    margin-left: auto;
+    gap: 40px;
+    flex-direction: inherit;
+  }
+  .link-navigation.active::after {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background-color: var(--hover-focus-color);
+    display: block;
+    bottom: -28px;
+    position: absolute;
+    border-radius: 2px;
+    left: 0;
+  }
+  .header {
+    border-bottom: 1px solid #e7e9fc;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
 }
